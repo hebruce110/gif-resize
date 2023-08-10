@@ -1,4 +1,4 @@
-declare module "@gumlet/gif-resize" {
+declare module "@interfocus/gif-resize" {
   function gifResize(options: {
     /**
      * Resize GIF to given width in pixels. It maintains aspect ratio.
