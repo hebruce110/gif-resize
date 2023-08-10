@@ -2,7 +2,6 @@
   "name": "@interfocus/gif-resize",
   "version": "1.0.0",
   "description": "Resize GIFs",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hebruce110/gif-resize.git"
@@ -14,7 +13,8 @@
     "test": "jest --coverage"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "main": "src/index.js",
   "keywords": [
@@ -44,5 +44,5 @@
   "directories": {
     "test": "tests"
   },
-  "author": "Aditya Patadia"
+  "author": "xxx"
 }
